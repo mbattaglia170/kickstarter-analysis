@@ -19,7 +19,7 @@ We experience minimal cancellations during this period too.
 ###Outcomes Based on Goals
 
 As shown in the Outcomes Based on Goals chart, we experienced zero cancellations when a goal was set.
-![image_name](path/to/image_name.png)
+https://github.com/mbattaglia170/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
 
 ####Summary of Limitations
 
