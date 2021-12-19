@@ -3,6 +3,7 @@ The purpose of this analysis was to uncover trends and provide insight to busine
 In specific, insight as to how the launch date imnpacted theater outcomes and if pre-set goals helped increase revenue. 
 
 #Analysis and Challenges
+
 We can conclude that the lanuch date directly impacts the outcome theater outcomes based on lanuch date.
 ![image_name](path/to/image_name.png)
 As shown above, outcomes peak in the early spring, then trend down throughout the fall.
@@ -16,8 +17,10 @@ The launch date impacts the outcome as we peak in the early spring and trend dow
 We experience minimal cancellations during this period too.
 
 ###Outcomes Based on Goals
+
 As shown in the Outcomes Based on Goals chart, we experienced zero cancellations when a goal was set.
 ![image_name](path/to/image_name.png)
 
 ####Summary of Limitations
+
 We could have added more charts after looking more into correlations and variables.
