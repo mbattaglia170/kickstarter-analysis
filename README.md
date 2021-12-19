@@ -13,6 +13,7 @@ There wern't any difficulties, but a difficulty with Excel could be an issue.
 #Results
 
 ##Theater Outcomes by Launch Date
+
 The launch date impacts the outcome as we peak in the early spring and trend down throughout the rest of the year.
 We experience minimal cancellations during this period too.
 
