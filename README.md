@@ -5,7 +5,7 @@ In specific, insight as to how the launch date imnpacted theater outcomes and if
 #Analysis and Challenges
 
 We can conclude that the lanuch date directly impacts the outcome theater outcomes based on lanuch date.
-![image_name](path/to/image_name.png)
+https://github.com/mbattaglia170/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 As shown above, outcomes peak in the early spring, then trend down throughout the fall.
 We believe that this is due to the the lack of snow and rain in the summer and increased family time with school being out.
 There wern't any difficulties, but a difficulty with Excel could be an issue.
